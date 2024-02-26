@@ -15,7 +15,7 @@ Clone this repository and after that use these commands:
 
 ### Start
 ```bash
-    npm start
+    npm run serve
 ```
 
 ## Credits
